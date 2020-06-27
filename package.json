@@ -1,0 +1,27 @@
+{
+  "name": "hamsheed-devfolio",
+  "version": "1.0.0",
+  "description": "A simple, responsive, single-page portfolio and resume for developers built with Bulma, Sass, Font Awesome and Flickity.",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "deploy": "gh-pages -d dist"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hamsheed-salamut/hamsheed-devfolio.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "homepage": "https://hamsheed-salamut.github.io/hamsheed-devfolio"
+  "bugs": {
+    "url": "https://github.com/hamsheed-salamut/hamsheed-devfolio/issues"
+  },
+  "homepage": "https://github.com/hamsheed-salamut/hamsheed-devfolio#readme",
+  "dependencies": {
+    "gh-pages": "^3.1.0"
+  }
+}
