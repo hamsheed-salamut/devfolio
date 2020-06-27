@@ -16,7 +16,7 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "homepage": "https://hamsheed-salamut.github.io/hamsheed-devfolio",
+  "homepage": "https://hamsheed-salamut.github.io",
   "dependencies": {
     "gh-pages": "^3.1.0"
   }
