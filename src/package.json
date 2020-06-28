@@ -3,12 +3,8 @@
   "version": "1.0.0",
   "description": "",
   "main": "webpack.config.js",
-  "scripts": {
-    "deploy": "gh-pages -d src"
-  },
   "author": "Hamsheed Salamut",
   "license": "MIT",
-  "homepage": "https://hamsheed-salamut.github.io/hamsheed-devfolio",
   "devDependencies": {
     "bulma": "^0.8.0",
     "css-loader": "^3.2.1",
