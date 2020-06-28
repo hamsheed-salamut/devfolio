@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "",
   "main": "webpack.config.js",
-  "author": "Mark Macneil",
+  "author": "Hamsheed Salamut",
   "license": "MIT",
   "scripts": {
     "build": "webpack --mode production"
