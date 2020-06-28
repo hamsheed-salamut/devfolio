@@ -5,6 +5,7 @@
   "main": "webpack.config.js",
   "author": "Hamsheed Salamut",
   "license": "MIT",
+  "homepage": "https://hamsheed-salamut.github.io/hamsheed-devfolio",
   "scripts": {
     "build": "webpack --mode production"
   },
